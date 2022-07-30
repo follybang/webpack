@@ -1,3 +1,5 @@
+// file path: src/profile/index.js
+
 import { fetchUser } from "./gateway";
 import printProfile from "./printProfile";
 
